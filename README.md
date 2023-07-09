@@ -1,3 +1,1 @@
-# rsschool-cv
-
-testing
+https://github.com/Wedlec129/rsschool-cv
